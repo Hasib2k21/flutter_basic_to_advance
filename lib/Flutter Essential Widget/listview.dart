@@ -6,9 +6,13 @@ class ListViewWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+<<<<<<< HEAD
     appBar: AppBar(
       title: Text('My App'),
     ),
+=======
+
+>>>>>>> origin/master
     );
   }
 }
